@@ -32,6 +32,7 @@ public class Prueba {
         historial.setExamen2(13);
         historial.setMateria(materia);
         
+        
         int apro= historial.getAprovechamiento();
         int apro1= historial.getAprovechamiento1();
         innt exam= 
